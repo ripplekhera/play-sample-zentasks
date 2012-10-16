@@ -17,6 +17,7 @@ tmp
 .idea
 .idea_modules
 .cache
+.DS_Store
 
 # Scala-IDE specific
 .scala_dependencies
